@@ -38,11 +38,9 @@ Or you can download individual text files and put them in this folder (if you do
 
 *\stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards*
 
-## Information on Dynamic Prompts
+## Information on [Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts)
 
 Using Automatic1111's fork, you can install Dynamic Prompts from the Extensions tab (Available>Dynamic Prompts)
-
-Dynamic Prompts and how to use it can be found here: https://github.com/adieyal/sd-dynamic-prompts
 
 If you're still unsure about what this does; basically it allows you to use wildcards to randomize keywords based on what is available inside the text file. An example prompt would be something like this:
 
@@ -56,12 +54,10 @@ The result would look something like this with each generation:
 
 ### Resources
 
-You can find even more wildcards to use at the link below, which include wildcards not found in this collection such as anime, danbooru tags, non-Western artists, etc.
+You can find even more wildcards to use [at this link](https://rentry.org/sdgoldmine#wildcards), which include wildcards not found in this collection such as anime, danbooru tags, non-Western artists, etc.
 
-https://rentry.org/sdgoldmine#wildcards
+ChatGPT is free (for now) and [you can sign up for it here](https://openai.com/blog/chatgpt/).
 
-ChatGPT is free (for now) and you can sign up for it here: https://openai.com/blog/chatgpt/
-
-There are Windows/Linux/macOS apps available here: https://prompts.chat/
+There are Windows/Linux/macOS apps available at [prompts.chat](https://prompts.chat/).
 
 *Protip*: You can create a style with your favorite lines.  For example, I have a style called Camera Wildcards that injects this line to the prompt box: *`__camera__, __f-stop__, __iso-stop__, __focal-length__`*
