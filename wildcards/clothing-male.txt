@@ -1,0 +1,44 @@
+athletic wear
+blazer
+button-up shirt
+cardigan
+cargo pants
+chinos
+coat
+crew neck t-shirt
+denim jacket
+denim jeans
+dress shirt
+flannel shirt
+gym shorts
+hoodie
+jacket
+jeans
+joggers
+jumper
+khakis
+long-sleeve shirt
+mackintosh
+pants
+parka
+polo shirt
+raincoat
+rugby shirt
+scarf
+shirt
+shorts
+suit
+sweater
+sweatshirt
+swim trunks
+t-shirt
+tank top
+tracksuit
+track jacket
+track pants
+turtleneck
+vest
+waistcoat
+windbreaker
+windcheater
+zip-up hoodie
