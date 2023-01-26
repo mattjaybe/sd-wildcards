@@ -54,6 +54,8 @@ The result would look something like this with each generation:
 - a **stunning** woman wearing a **gown** in **France**
 - a **lovely** woman wearing a **cocktail dress** in **Tokyo**
 
+### Resources
+
 You can find even more wildcards to use at the link below, which include wildcards not found in this collection such as anime, danbooru tags, non-Western artists, etc.
 
 https://rentry.org/sdgoldmine#wildcards
