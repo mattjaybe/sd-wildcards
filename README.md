@@ -12,24 +12,33 @@ You can create your own list of wildcards by telling ChatGPT this:
 > Give me a list of the top 50 well-known actors. Make sure you list each one on its own line, alphabetical order, in lowercase, in singular form, and that there are no duplicates. Do not number each line.
 
 Example wildcards found in this collection that were created with ChatGPT:
-- *dress*
-- *lingerie*
-- *fantasy*
-- *scifi*
-- *biome*
-- *monster*
-- *artist-scifi*
-- *artist-horror*
-- *scenario-romance*
-- *scenario-fantasy*
+
+- [*dress*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/dress.txt)
+- [*lingerie*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/lingerie.txt)
+- [*fantasy*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/fantasy.txt)
+- [*scifi*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scifi.txt)
+- [*biome*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/biome.txt)
+- [*monster*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/monster.txt)
+- [*artist-scifi*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/artist-scifi.txt)
+- [*artist-horror*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/artist-horror.txt)
+- [*scenario-romance*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scenario-romance.txt)
+- [*scenario-fantasy*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scenario-fantasy.txt)
+
+![example](https://user-images.githubusercontent.com/110819465/214972021-6086eff9-fa7e-46db-8dcf-c07eaf345983.png)
+
+## Installation
+
+Install the Dynamic Prompts extension if you don't have it already, then clone this repo to this folder:
+
+*\stable-diffusion-webui\extensions\sd-dynamic-prompts*
+
+Or you can download individual text files and put them in this folder (if you don't see a wildcards folder, create one):
+
+*\stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards*
 
 ## Information on Dynamic Prompts
 
 Using Automatic1111's fork, you can install Dynamic Prompts from the Extensions tab (Available>Dynamic Prompts)
-
-Install the Dynamic Prompts extension, then add all the wildcard text files found in this collection to this folder:
-
-*\stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards*
 
 Dynamic Prompts and how to use it can be found here: https://github.com/adieyal/sd-dynamic-prompts
 
@@ -43,10 +52,12 @@ The result would look something like this with each generation:
 - a **stunning** woman wearing a **gown** in **France**
 - a **lovely** woman wearing a **cocktail dress** in **Tokyo**
 
-You can find even more wildcards to use at the link below, which include wildcards not found in this collection. Such as anime, danbooru tags, non-Western artists, etc.
+You can find even more wildcards to use at the link below, which include wildcards not found in this collection such as anime, danbooru tags, non-Western artists, etc.
 
 https://rentry.org/sdgoldmine#wildcards
 
 ChatGPT is free (for now) and you can sign up for it here: https://openai.com/blog/chatgpt/
 
 There are Windows/Linux/macOS apps available here: https://prompts.chat/
+
+*Protip*: You can create a style with your favorite lines.  For example, I have a style called Camera Wildcards that injects this line to the prompt box: *`__camera__, __f-stop__, __iso-stop__, __focal-length__`*
