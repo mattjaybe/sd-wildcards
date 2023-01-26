@@ -11,6 +11,8 @@ You can create your own list of wildcards by telling ChatGPT this:
 
 > Give me a list of the top 50 well-known actors. Make sure you list each one on its own line, alphabetical order, in lowercase, in singular form, and that there are no duplicates. Do not number each line.
 
+Copy and paste the result into a text file with the name of your own choosing (or add to current ones.)
+
 Example wildcards found in this collection that were created with ChatGPT:
 
 - [*dress*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/dress.txt)
