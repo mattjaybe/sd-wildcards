@@ -30,7 +30,7 @@ Example wildcards found in this collection that were created with ChatGPT:
 
 ## Installation
 
-Install the Dynamic Prompts extension if you don't have it already, then clone this repo to this folder:
+Install the Dynamic Prompts extension if you don't have it already, then clone this repo to this folder (scroll down to learn how to clone this repo):
 
 *\stable-diffusion-webui\extensions\sd-dynamic-prompts*
 
@@ -61,3 +61,15 @@ ChatGPT is free (for now) and [you can sign up for it here](https://openai.com/b
 There are Windows/Linux/macOS apps available at [prompts.chat](https://prompts.chat/).
 
 *Protip*: You can create a style with your favorite lines.  For example, I have a style called Camera Wildcards that injects this line to the prompt box: *`__camera__, __f-stop__, __iso-stop__, __focal-length__`*
+
+### How To Clone This Repo
+
+To clone a repo, you'll first need to have Git installed. If you're on Windows, [you can get it here](https://gitforwindows.org/).
+
+Then, once Dynamic Prompts is installed, navigate to this folder using Windows Explorer: \stable-diffusion-webui\extensions\sd-dynamic-prompts
+
+In Windows Explorer's address bar at the top, type in `cmd`, and a command prompt will open.  Then put this in there:
+
+`git clone https://github.com/mattjaybe/sd-wildcards.git`
+
+It'll quickly download the wildcards folder into the proper place. You don't have to reboot Stable Diffusion or anything, it'll work as soon as you invoke a wildcard in your prompt.
