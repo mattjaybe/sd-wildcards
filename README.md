@@ -32,11 +32,11 @@ Example wildcards found in this collection that were created with ChatGPT:
 
 Install the Dynamic Prompts extension if you don't have it already, then clone this repo to this folder (scroll down to learn how to clone this repo):
 
-*\stable-diffusion-webui\extensions\sd-dynamic-prompts*
+`\stable-diffusion-webui\extensions\sd-dynamic-prompts`
 
 Or you can download individual text files and put them in this folder (if you don't see a wildcards folder, create one):
 
-*\stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards*
+`\stable-diffusion-webui\extensions\sd-dynamic-prompts\wildcards`
 
 ## Information on [Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts)
 
@@ -66,7 +66,9 @@ There are Windows/Linux/macOS apps available at [prompts.chat](https://prompts.c
 
 To clone a repo, you'll first need to have Git installed. If you're on Windows, [you can get it here](https://gitforwindows.org/).
 
-Then, once Dynamic Prompts is installed, navigate to this folder using Windows Explorer: \stable-diffusion-webui\extensions\sd-dynamic-prompts
+Then, once Dynamic Prompts is installed, navigate to this folder using Windows Explorer:
+
+`\stable-diffusion-webui\extensions\sd-dynamic-prompts`
 
 In Windows Explorer's address bar at the top, type in `cmd`, and a command prompt will open.  Then put this in there:
 
