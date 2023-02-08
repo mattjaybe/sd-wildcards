@@ -12,28 +12,16 @@ artwork
 awe
 beautiful creature
 beauty
+bloom
+blossom
+butterfly
+camellia
 charm
 charmer
 composition
 cutie pie
-infatuation
-inner beauty
-jewel
-knockout
-longing
-look
-looker
-loveliness
-marvel
-miracle
-natural beauty
-object of desire
-objet d’art
-perfection
-purity
-rarity
-reverence
-sculpture
+dawn
+delight
 dish
 doll
 dream
@@ -48,24 +36,76 @@ eyeful
 feast for the eyes
 femininity
 fox
+fragrance
 glorification
+glow
 good looks
 good-looking person
 grace
+harmony
+haze
+infatuation
+inner beauty
+iridescence
+iris
+jewel
+kaleidoscope
+knockout
+lily
+longing
+look
+looker
+loveliness
+luxury
+majesty
+marvel
+meadow
+miracle
+morning
+natural beauty
+oasis
+object of desire
+objet d’art
+peace
+perfection
+petal
+purity
+radiance
+rarity
+reflection
+reverence
+roses
+sapphire
+sculpture
+serenade
+serenity
 sex appeal
 sex symbol
 sight
+silhouette
 sophistication
+sparkle
+splendor
 stunner
 stupor
+sunrise
+sunset
+sunshine
 treasure
+twilight
 uncontested beauty
 universal beauty
+vibrance
+view
+violet
 visual feast
 visual poetry
 visual treat
+warmth
+whimsy
 wonder
 wonderment
 work of art
 worshiper
 wow factor
+zephyr
