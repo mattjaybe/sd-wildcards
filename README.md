@@ -54,7 +54,11 @@ The result would look something like this with each generation:
 
 ### Resources
 
-You can find even more wildcards to use [at this link](https://rentry.org/sdgoldmine#wildcards), which include wildcards not found in this collection such as anime, danbooru tags, non-Western artists, etc.
+You can find even more wildcards to use:
+
+[Wildcards for SD](https://github.com/themartiantourist/Wildcards-for-SD)
+
+[SDGoldMine](https://rentry.org/sdgoldmine#wildcards)
 
 ChatGPT is free (for now) and [you can sign up for it here](https://openai.com/blog/chatgpt/).
 
