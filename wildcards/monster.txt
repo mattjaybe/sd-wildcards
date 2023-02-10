@@ -3,6 +3,7 @@ abominable snowman
 alien
 ammit
 anansi
+angel
 angel of death
 anubis
 apollo
@@ -13,6 +14,7 @@ banshee
 basilisk
 behemoth
 bennu
+bigfoot
 blob
 bloodsucker
 bogeyman
@@ -24,6 +26,8 @@ centaur
 cerberus
 changeling
 charybdis
+cherub
+chimaera
 chimera
 chupacabra
 clown
@@ -34,9 +38,11 @@ cryptid
 cyclops
 dagon
 daimon
+deity
 demon
 devil
 direwolf
+divine being
 djinn
 dragon
 drakon
@@ -64,6 +70,8 @@ ghost
 ghoul
 giant
 goblin
+god
+goddess
 godzilla
 gorgon
 griffin
@@ -97,11 +105,15 @@ medusa
 mermaid
 mimic
 minotaur
+monster
 mothman
 mummy
 naga
+necromancer
+nymph
 ogre
 oni
+orc
 ork
 phoenix
 pooka
@@ -109,9 +121,14 @@ quasit
 rakshasa
 rat king
 reaper
+roc
 sasquatch
+satyr
+selkie
+shaman
 siren
 skeleton
+sorcerer
 specter
 sphinx
 succubus
@@ -121,9 +138,14 @@ treant
 troll
 valkyrie
 vampire
+warlock
+wendigo
 werewolf
+witch
+wizard
 wraith
 wyrm
+yeti
 yowie
 yuki-onna
 zombie
