@@ -1,0 +1,11 @@
+curly hair
+drill hair
+twin drills
+hair flaps
+messy hair
+pointy hair
+ringlets
+spiked hair
+wavy hair
+hair down
+hair up

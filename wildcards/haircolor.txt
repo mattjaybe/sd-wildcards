@@ -1,0 +1,56 @@
+#아쿠아 헤어
+aqua hair
+#흑발
+black hair
+#블론드 헤어
+blonde hair
+#파란 머리
+blue hair
+#하늘색 머리
+light blue hair
+#진한 파란색 머리
+dark blue hair
+#갈색 머리
+brown hair
+#밝은 갈색 머리
+light brown hair
+#녹색 머리
+green hair
+#짙은 녹색 머리
+dark green hair
+#연두색 머리
+light green hair
+#흰머리
+grey hair
+#주황색 머리
+orange hair
+#분홍색 머리
+pink hair
+#보라색 머리카락
+purple hair
+#밝은 보라색 머리카락
+light purple hair
+#빨강 머리
+red hair
+#흰머리
+white hair
+#여러 가지 빛깔의 머리카락
+multicolored hair
+#컬러 내부 헤어
+colored inner hair
+#그라데이션 헤어
+gradient hair
+#무지개 머리
+rainbow hair
+#스플릿 컬러 헤어
+split-color hair
+#줄무늬 머리
+streaked hair
+#투톤 헤어
+two-tone hair
+#컬러 팁
+colored tips
+#대체 머리 색깔
+alternate hair color
+#반투명 머리카락
+translucent hair

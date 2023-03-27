@@ -1,0 +1,20 @@
+naked apron
+nearly naked apron
+naked bandage
+naked cape
+naked capelet
+naked chocolate
+naked cloak
+naked coat
+naked hoodie
+naked jacket
+naked overalls
+naked ribbon
+naked robe
+naked scarf
+naked sheet
+naked shirt
+naked suspenders
+naked tabard
+naked towel
+underwear only

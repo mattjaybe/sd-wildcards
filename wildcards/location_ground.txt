@@ -1,0 +1,72 @@
+Agricultural Settlement
+Amphitheater
+Angkor Wat
+Aqueduct
+Arcade
+Basilica
+Bazaar
+Beach
+Bridge
+Buckingham Palace
+Bungalow
+Burj Khalifa
+Cabin
+Castle
+Citadel
+City
+Coastal Settlement
+Colosseum
+Cottage
+Desert Settlement
+Eiffel Tower
+Fortified Settlement
+Frontier Settlement
+Ghost Town
+Great Wall of China
+Hamlet
+Highland Settlement
+Hill Settlement
+Hut
+Igloo
+Jungle Settlement.
+Kaaba
+Leaning Tower of Pisa
+Lighthouse
+Lodge
+Machu Picchu
+Mansion
+Metropolis
+Minaret
+Mining Settlement
+Monument
+Mountain Settlement
+Observatory
+Pagoda
+Palace
+Park
+Parthenon
+Pavilion
+Portico
+Pueblo
+Pyramid
+Pyramids of Giza
+River Settlement
+Rotunda
+Rural Community
+Skyscraper
+Stonehenge
+Street
+Stupa
+Suburb
+Sydney Opera House
+Taj Mahal
+Teepee
+Tower
+Town
+Township
+Villa
+Village
+White House
+Windmill
+Yurt
+Ziggurat

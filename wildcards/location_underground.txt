@@ -1,0 +1,19 @@
+Bunker
+Catacomb
+Cave
+Data center
+Decommissioned military site
+Fallout shelter
+Flood control system
+Greenhouse
+Hydroelectric power plant
+Mine shaft
+Storm shelter
+Subway system
+Tuned Mass Damper structure
+tunnel
+Underground city
+Underground garage
+Underground storage facility
+Utility tunnel
+Waste management facility

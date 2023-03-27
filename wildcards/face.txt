@@ -1,0 +1,19 @@
+happy
+disgust
+smug
+flustered
+confused
+angry
+:p
+:o
+:d
+smile
+frown
+furled brow
+grimace
+naughty face
+:3
+:<
+:q
+:|
+:/

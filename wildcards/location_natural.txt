@@ -1,0 +1,27 @@
+Canyon
+Cave
+Cliff
+Desert
+Fjord
+Forest
+Geyser
+Glacier
+Gorge
+Grassland
+Hill
+Hot spring
+Island
+Jungle
+Lake
+Marsh
+Mountain
+Ocean
+Plain
+Plateau
+Reef
+River
+Swamp
+Tundra
+Valley
+Volcano
+Waterfall

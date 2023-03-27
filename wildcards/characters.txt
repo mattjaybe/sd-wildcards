@@ -1,0 +1,888 @@
+ishtar
+\medusa (rider) (fate)\
+ereshkigal
+\tamamo (fate)\
+\minamoto no raikou (fate)\
+\nero claudius (fate)\
+\bulma (dragon ball)\
+\android 18 (dragon ball z)\
+\android 21 (dragon ball)\
+\Sakura Haruno (Naruto)\
+\Hinata (Naruto)\
+\Sakura (Naruto)\
+\Hinata Hyuuga (Naruto)\
+\Tsunade (Naruto)\
+\Konan (Naruto)\
+\Ino (Naruto)\
+\Temari (Naruto)\
+\Mei (Naruto)\
+\Tenten (Naruto)\
+\Kushina (Naruto)\
+\Hanabi (Naruto)\
+\Kurenai (Naruto)\
+\Anko (Naruto)\
+\Albedo (Overlord)\
+\Shalltear (Overlord)\
+\Narberal (Overlord)\
+\Lupusregina (Overlord)\
+\Aura (Overlord)\
+\Solution (Overlord)\
+\Renner (Overlord)\
+\Asuna Yuuki (Sword art online)\
+\Asuna (Sword art online)\
+\Yui (Sword art online)\
+\Suguha (Sword art online)\
+\Lisbeth (Sword art online)\
+\Sinon (Sword art online)\
+\Black Widow (Marvel)\
+\Scarlet Witch (Marvel)\
+\Black Cat (Marvel)\
+\Asuka (Senran Kagura)\
+\Yagyu (Senran Kagura)\
+\Ayame (Senran Kagura)\
+\Muramasa (Senran Kagura)\
+\Homura (Senran Kagura)\
+\Bashou (Senran Kagura)\
+\Kagura (Senran Kagura)\
+\Storm (x-men)\
+\Rogue (x-men)\
+\Ikumi Mito (Shokugeki no souma)\
+\Ikumi (Shokugeki no souma)\
+\Erina Nakiri (Shokugeki no souma)\
+\Alice Nakiri (Shokugeki no souma)\
+\Ivy (Soul Calibur)\
+\Sophitia (Soul Calibur)\
+\Taki (Soul Calibur)\
+\Meiko Shiraki (Prison School)\
+\Meiki (Prison School)\
+\Mari Kurihara (Prison School)\
+\Mari (Prison School)\
+\Hana Midorikawa (Prison School)\
+\Hana (Prison School)\
+\Harley Quinn (dc comics)\
+\Poison Ivy (dc comics)\
+\Wonder Woman (dc comics)\
+\Raven (dc comics)\
+\Batgirl (dc comics)\
+\Catwoman (dc comics)\
+\Dark Magician Girl (Yu-Gi-Oh!)\
+\Tea (Yu-Gi-Oh!)\
+\Mai Valentine (Yu-Gi-Oh!)\
+\Ishizu Ishtar (Yu-Gi-Oh!)\
+\Alexis Rhodes (Yu-Gi-Oh!)\
+\Akiza Izinski (Yu-Gi-Oh!)\
+\Zuzu Boyle (Yu-Gi-Oh!)\
+\Nami (One Piece)\
+\Nico Robin (One Piece)\
+\Boa Hancock (One Piece)\
+\Nefertari Vivi (One Piece)\
+\Yamato (One Piece)\
+\Jewelry Bonney (One Piece)\
+\Rias Gremory (high school dxd)\
+\Akeno Himejima (high school dxd)\
+\Asia Argento (high school dxd)\
+\Koneko Toujou (high school dxd)\
+\Koneko (high school dxd)\
+\Asia (high school dxd)\
+\Serafall Leviathan (high school dxd)\
+\Chun-li (street fighter)\
+\Cammy (street fighter)\
+\Lucy Heartfilia (fairy tail)\
+\Erza Scarlet (fairy tail)\
+\Wendy (fairy tail)\
+\Juvia (fairy tail)\
+\Mirajane (fairy tail)\
+\Hestia (danmachi)\
+\Ais Wallenstein (danmachi)\
+\Freya (danmachi)\
+\Hephaestus (danmachi)\
+\Ishtar (danmachi)\
+\Sanjouno Haruhime (danmachi)\
+\Ryuu Lion (danmachi)\
+\Kurumi Imari (bible black)\
+\Reik Kitami (bible black)\
+\Kaori Saeki (bible black)\
+\Orihime Inoue (bleach)\
+\Rukia Kuchiki (bleach)\
+\Yotuichi (bleach)\
+\Yoruichi Shihouin (bleach)\
+\Sui-Feng (bleach)\
+\Rangiku Matsumoto (bleach)\
+\Retsu Unohana (bleach)\
+\Neliel Tu Odelschwanck (bleach)\
+\Nelliel (bleach)\
+\Nelliel Tu Odelschwanck (bleach)\
+\Neliel (bleach)\
+\Harribel (bleach)\
+\Nemu (bleach)\
+\Hiyori (bleach)\
+\Mashiro (bleach)\
+\Loly (bleach)\
+\Bambietta (bleach)\
+\Candice (bleach)\
+\Shion (tensei shitara slime datta ken)\
+\Shuna (tensei shitara slime datta ken)\
+\Milim (tensei shitara slime datta ken)\
+\Tifa Lockhart (Final Fantasy)\
+\Tifa (Final Fantasy)\
+\Cindy (Final Fantasy)\
+\Yuna (Final Fantasy)\
+\Lightning (Final Fantasy)\
+\Aerith (Final Fantasy)\
+\Lulu (Final Fantasy)\
+\Yuffie (Final Fantasy)\
+\Rikku (Final Fantasy)\
+\Junko Enoshima (danganronpa)\
+\Nanami Chiaki (danganronpa)\
+\Akamatsu Kaede (danganronpa)\
+\Tsumiki Mikan (danganronpa)\
+\Harukawa Maki (danganronpa)\
+\Celestia Ludenberg (danganronpa)\
+\Maizono Sayaka (danganronpa)\
+\Fujisaki Chihiro (danganronpa)\
+\Kyoko Kirigiri (danganronpa)\
+\Ibuku Mioda (danganronpa)\
+\Aoi Asahina (danganronpa)\
+\Mikan Tsumiki (danganronpa)\
+\Menace (queen's blade)\
+\Cattleya (queen's blade)\
+\Melona (queen's blade)\
+\Shizuka (queen's blade)\
+\Aldra (queen's blade)\
+\Alleyne (queen's blade)\
+\Airi (queen's blade)\
+\Nanael (queen's blade)\
+\Alicia (queen's blade)\
+\Irma (queen's blade)\
+\Melpha (queen's blade)\
+\Asagi Igawa (Taimanin Assagi)\
+\Sakura Igawa (Taimanin Assagi)\
+\Asaka Koukawa (Taimanin Assagi)\
+\Rinko Akiyama (Taimanin Assagi)\
+\Oboro (Taimanin Assagi)\
+\Mizuki Yukikaze (Taimanin Assagi)\
+\Murasaki Yatsu (Taimanin Assagi)\
+\Astaroth (Taimanin Assagi)\
+\Shiranui Mizuki (Taimanin Assagi)\
+\Rufina (Taimanin Assagi)\
+\Kosaka Shizuru (Taimanin Assagi)\
+\Blair (soul eater)\
+\Maka Albarn (soul eater)\
+\Al Kizuna (Azur Lane)\
+\Prinz Eugen (Azur Lane)\
+\Noire (Azur Lane)\
+\Neptune (Azur Lane)\
+\Belfast (Azur Lane)\
+\Rikka Takarada (Azur Lane)\
+\Enterprise (Azur Lane)\
+\Atago (Azur Lane)\
+\Akagi (Azur Lane)\
+\Kaga (Azur Lane)\
+\Aqua Minato (Azur Lane)\
+\Taihou (Azur Lane)\
+\Vert (Azur Lane)\
+\Blanc (Azur Lane)\
+\Marie Rose (Azur Lane)\
+\Formidable (Azur Lane)\
+\Laffey (Azur Lane)\
+\Mio Ookami (Azur Lane)\
+\Ayanami (Azur Lane)\
+\Sirius (Azur Lane)\
+\Unicorn (Azur Lane)\
+\Shion Murasaki (Azur Lane)\
+\Matsuri Natsuiro (Azur Lane)\
+\Ayame Nakiri (Azur Lane)\
+\z23 (Azur Lane)\
+\Shoukaku (Azur Lane)\
+\Mizore (rosaria+vampire)\
+\Moka (rosaria+vampire)\
+\Fubuki (one punch man)\
+\Tatsumaki (one punch man)\
+\Tsukiumi (Sekirei)\
+\Musubi (Sekirei)\
+\Kazehana (Sekirei)\
+\Uzume (Sekirei)\
+\Artoria Pendragon (fate)\
+\Ishtar (fate)\
+\Illyasviel von Einzbern (fate)\
+\Illyasviel (fate)\
+\Nero Claudius (fate)\
+\Okita Souji (fate)\
+\Jeanne d'arc (fate)\
+\Miyamoto (fate)\
+\Chloe (fate)\
+\Chloe von einzbern (fate)\
+\nitocris (fate)\
+\tamamo cat (fate)\
+\abigail williams (fate)\
+\jack the ripper (fate)\
+\marin (my dress-up darling)\
+\marin kitagawa (my dress-up darling)\
+\sajuna inui (my dress-up darling)\
+\nowa sugaya (my dress-up darling)\
+\shizuku kuroe (my dress-up darling)\
+\mona (genshin impact)\
+\mona megistus (genshin impact)\
+\ganyu (genshin impact)\
+\keqing (genshin impact)\
+\hu tao (genshin impact)\
+\fischl (genshin impact)\
+\noelle (genshin impact)\
+\lisa minci (genshin impact)\
+\jean gunnhildr (genshin impact)\
+\raiden ei (genshin impact)\
+\jean (genshin impact)\
+\raiden (genshin impact)\
+\amber (genshin impact)\
+\eula (genshin impact)\
+\beidou (genshin impact)\
+\sucrose (genshin impact)\
+\rosario (genshin impact)\
+\mao (genshin impact)\
+\paimon (genshin impact)\
+\yanfei (genshin impact)\
+\venti (genshin impact)\
+\klee (genshin impact)\
+\shenhe (genshin impact)\
+\qiqi (genshin impact)\
+\xiao (genshin impact)\
+\yelan (genshin impact)\
+\yun jin (genshin impact)\
+\diona (genshin impact)\
+\aoi kunieda (beelzebub)\
+\hildegarde (beelzebub)\
+\lamia (beelzebub)\
+\yolda (beelzebub)\
+\high elf archer (goblin slayer)\
+\guild girl (goblin slayer)\
+\priestess (goblin slayer)\
+\cow girl (goblin slayer)\
+\sword maiden (goblin slayer)\
+\witch (goblin slayer)\
+\Korone Inugami (hololive)\
+\Pekora Usada (hololive)\
+\Marine Houshou (hololive)\
+\Fubuki Shirakami (hololive)\
+\Coco Kiryu (hololive)\
+\Rushia Uruha (hololive)\
+\Okayu Nekomata (hololive)\
+\Suisei Hoshimachi (hololive)\
+\Aqua Minato (hololive)\
+\Subaru Oozora (hololive)\
+\Towa Tokoyami (hololive)\
+\Miko Sakura (hololive)\
+\Shion Murasaki (hololive)\
+\Noel Shirogane (hololive)\
+\Roxy (Mushoku Tensei)\
+\Roxy Migurdia (Mushoku Tensei)\
+\Eris (Mushoku Tensei)\
+\Eris Greyrat (Mushoku Tensei)\
+\Eris Boreas Greyrat (Mushoku Tensei)\
+\Sylphiette (Mushoku Tensei)\
+\Zenith (Mushoku Tensei)\
+\Lilia (Mushoku Tensei)\
+\Aisha (Mushoku Tensei)\
+\Elinalise (Mushoku Tensei)\
+\Ghislaine (Mushoku Tensei)\
+\Kishirika (Mushoku Tensei)\
+\Norn (Mushoku Tensei)\
+\Yachiru (Bleach)\
+\Lucy (Cyberpunk Edgerunners)\
+\Rebecca (Cyberpunk Edgerunners)\
+\Yor Forger (Spy x Family)\
+\Yor (Spy x Family)\
+\Anya Forger (Spy x Family)\
+\Anya (Spy x Family)\
+\Megumin (Konosuba)\
+\Aqua (Konosuba)\
+\Wiz (Konosuba)\
+\Arnes (Konosuba)\
+\Rem (re:ZERO)\
+\Emilia (re:ZERO)\
+\Ram (re:ZERO)\
+\Echidna (re:ZERO)\
+\Felix (re:ZERO)\
+\Crusch (re:ZERO)\
+\Beatrice (re:ZERO)\
+\Felt (re:ZERO)\
+\Satella (re:ZERO)\
+\Princilla Barielle (re:ZERO)\
+\Elsa (re:ZERO)\
+\Theresia van Astrea (re:ZERO)\
+\Minerva (re:ZERO)\
+\Kurisu Makise (Steins;Gate)\
+\Kurisu (Steins;Gate)\
+\Mayuri (Steins;Gate)\
+\Mayuri Shiina (Steins;Gate)\
+\Suzuha (Steins;Gate)\
+\Faris (Steins;Gate)\
+\Luka (Steins;Gate)\
+\Moeka (Steins;Gate)\
+\Maho Hiyajo (Steins;Gate)\
+\Yuki (Steins;Gate)\
+\Kagari (Steins;Gate)\
+\Nae (Steins;Gate)\
+\Ochaco Uraraka (my hero academia)\
+\Tsuyu Asui (my hero academia)\
+\Momo (my hero academia)\
+\Himiko Toga (my hero academia)\
+\Himiko (my hero academia)\
+\Mei Hatsume (my hero academia)\
+\Nemuri Kayama (my hero academia)\
+\Camie Utsushimi (my hero academia)\
+\2B (Nier Automata)\
+\A2 (Nier Automata)\
+\Shinobu Oshino (Monogatari)\
+\Hitagi Senjougahara (Monogatari)\
+\Hitagi (Monogatari)\
+\Mayoi (Monogatari)\
+\Karen Araragi (Monogatari)\
+\Tsukihi (Monogatari)\
+\Sodachi (Monogatari)\
+\Rin (Fate/Stay Night)\
+\Rin Tohsaka (Fate/Stay Night)\
+\Saber (Fate/Stay Night)\
+\Medusa (Fate/Stay Night)\
+\Rider (Fate/Stay Night)\
+\Sakura (Fate/Stay Night)\
+\Illya (Fate/Stay Night)\
+\Illyasviel von einzbern (Fate/Stay Night)\
+\Mikasa (attack on titan)\
+\historia (attack on titan)\
+\sasha (attack on titan)\
+\annie (attack on titan)\
+\raphtalia (tate no yuusha no nariagari)\
+\Melty (tate no yuusha no nariagari)\
+\malty (tate no yuusha no nariagari)\
+\Karin (Naruto)\
+\Nezuko (Demon Slayer)\
+\Nezuko Kamado (Demon Slayer)\
+\Shinobu (Demon Slayer)\
+\Shinobu Kocho (Demon Slayer)\
+\Mitsuri (Demon Slayer)\
+\Kanao (Demon Slayer)\
+\Kanae (Demon Slayer)\
+\Daki (Demon Slayer)\
+\C.C. (Code Geass)\
+\Kallen (Code Geass)\
+\Shirley (Code Geass)\
+\euphemia (Code Geass)\
+\Viletta nu (Code Geass)\
+\Viletta (Code Geass)\
+\Cordelia (Code Geass)\
+\Milly (Code Geass)\
+\Anya (Code Geass)\
+\Nunnaly (Code Geass)\
+\Rakshata (Code Geass)\
+\Yuno Gasai (The future diary)\
+\AI Kizuna\
+\Gura Gawr (hololive)\
+\Mori Calliope (hololive)\
+\Pekora Usada (hololive)\
+\Amelia Watson (hololive)\
+\nyanners\
+\Ina'nis Ninomae (hololive)\
+\Hayase Nagatoro\
+\Hayase Nagatoro (ijiranaide nagatoro-san)\
+\Power (Chainsaw man)\
+\Makima (chainsaw man)\
+\Jibril (no game no life)\
+\shiro (no game no life)\
+\Stephanie (no game no life)\
+\Mikoto Misaka (a certain magical index)\
+\Misaki (a certain magical index)\
+\Shirai (a certain magical index)\
+\Miku Hatsune (Vocaloid)\
+\Yumeko Jabami (compulsive gambler)\
+\touka (tokyo ghoul)\
+\eto (tokyo ghoul)\
+\rize (tokyo ghoul)\
+\akira (tokyo ghoul)\
+\juuzou (tokyo ghoul)\
+\saiko (tokyo ghoul)\
+\d.va (overwatch)\
+\hana song (overwatch)\
+\tracer (overwatch)\
+\lena oxton (overwatch)\
+\mercy (overwatch)\
+\angela (overwatch)\
+\mei (overwatch)\
+\mei-ling (overwatch)\
+\widowmaker (overwatch)\
+\amelie (overwatch)\
+\sombra (overwatch)\
+\brigitte (overwatch)\
+\ashe (overwatch)\
+\pharah (overwatch)\
+\ana (overwatch)\
+\symmetra (overwatch)\
+\fareeha (overwatch)\
+\tamaki (fire force)\
+\maki (fire force)\
+\iris (fire force)\
+\hibana (fire force)\
+\lisa (fire force)\
+\cynthia (pokemon)\
+\may (pokemon)\
+\lillie (pokemon)\
+\dawn (pokemon)\
+\serena (pokemon)\
+\rosa (pokemon)\
+\hilda (pokemon)\
+\misty (pokemon)\
+\kasumi (pokemon)\
+\nessa (pokemon)\
+\marnie (pokemon)\
+\jessie (pokemon)\
+\sonia (pokemon)\
+\bea (pokemon)\
+\may (pokemon)\
+\nurse joy (pokemon)\
+\roxanne (pokemon)\
+\melony (pokemon)\
+\officer jenny (pokemon)\
+\shauna (pokemon)\
+\Saeko (highschool of the dead)\
+\Monika (doki doki literature club!)\
+\Yuri (doki doki literature club!)\
+\Natsuki (doki doki literature club!)\
+\Sayuri (doki doki literature club!)\
+\Rory Mercury (gate)\
+\Rory (gate)\
+\Lelei (gate)\
+\Tuka (gate)\
+\Pina (gate)\
+\Elizabeth (the seven deadly sins)\
+\Diane (the seven deadly sins)\
+\Merlin (the seven deadly sins)\
+\Misa (death note)\
+\Misa Amane (death note)\
+\Kohaku (dr.stone)\
+\ruri (dr.stone)\
+\lillian (dr.stone)\
+\homura (dr.stone)\
+\Nobara Kugisaki (jujutsu kaisen)\
+\Nobara (jujutsu kaisen)\
+\Maki (jujutsu kaisen)\
+\Kasumi Miwa (jujutsu kaisen)\
+\Mei mei (jujutsu kaisen)\
+\Shoko (jujutsu kaisen)\
+\Momo (jujutsu kaisen)\
+\Makoto Niijima (Persona 5)\
+\Futaba Sakura (Persona 5)\
+\Tae Takemi (Persona 5)\
+\Makoto (Persona 5)\
+\Futaba (Persona 5)\
+\Tae (Persona 5)\
+\Ann (Persona 5)\
+\Ann Takamaki (Persona 5)\
+\Sadayo Kawakami (Persona 5)\
+\Kawakami (Persona 5)\
+\Haru (Persona 5)\
+\Haru Okumura (Persona 5)\
+\Sae (Persona 5)\
+\Sae Niijima (Persona 5)\
+\Hifumi (Persona 5)\
+\Sumire (Persona 5)\
+\Sumire Yoshizawa (Persona 5)\
+\Caroline (Persona 5)\
+\Caroline and Justine (Persona 5)\
+\Twins (Persona 5)\
+\Justine (Persona 5)\
+\Lavenza (Persona 5)\
+\Chihaya (Persona 5)\
+\Shiho (Persona 5)\
+\Sophia (Persona 5)\
+\Alice (Persona 5)\
+\Tanya (The saga of Tanya the evil)\
+\Tanya von Dehurechaff (The saga of Tanya the evil)\
+\Lucina (Fire Emblem)\
+\Tharja (Fire Emblem)\
+\Camilla (Fire Emblem)\
+\Lyndis (Fire Emblem)\
+\Corrin (Fire Emblem)\
+\Tiki (Fire Emblem)\
+\Azura (Fire Emblem)\
+\Olivia (Fire Emblem)\
+\Felicia (Fire Emblem)\
+\Cordelia (Fire Emblem)\
+\Anna (Fire Emblem)\
+\Robin (Fire Emblem)\
+\Severa (Fire Emblem)\
+\Edelgard (Fire Emblem)\
+\Byleth (Fire Emblem)\
+\Hilda (Fire Emblem)\
+\Lysithea (Fire Emblem)\
+\Cherche (Fire Emblem)\
+\Nowi (Fire Emblem)\
+\Eirika (Fire Emblem)\
+\Hinoka (Fire Emblem)\
+\Dorothea (Fire Emblem)\
+\Elise (Fire Emblem)\
+\Sakura (Fire Emblem)\
+\Shamir (Fire Emblem)\
+\Celica (Fire Emblem)\
+\Bernadette (Fire Emblem)\
+\Oboro (Fire Emblem)\
+\Marianne (Fire Emblem)\
+\Ophelia (Fire Emblem)\
+\Petra (Fire Emblem)\
+\Lisa (Fire Emblem)\
+\Peri (Fire Emblem)\
+\Sothis (Fire Emblem)\
+\Rhea (Fire Emblem)\
+\Ahri (League of Legends)\
+\Jinx (League of Legends)\
+\Jinx (Arcane)\
+\Sona (League of Legends)\
+\Akali (League of Legends)\
+\Lux (League of Legends)\
+\Riven (League of Legends)\
+\Katarina (League of Legends)\
+\Evelynn (League of Legends)\
+\Xayah (League of Legends)\
+\Irelia (League of Legends)\
+\Caitlyn (League of Legends)\
+\Soraka (League of Legends)\
+\Vi (League of Legends)\
+\Vi (Arcane)\
+\Nidalee (League of Legends)\
+\Ashe (League of Legends)\
+\Leona (League of Legends)\
+\Orianna (League of Legends)\
+\Kai'sa (League of Legends)\
+\Fiora (League of Legends)\
+\Lulu (League of Legends)\
+\Janna (League of Legends)\
+\Annie (League of Legends)\
+\Sivir (League of Legends)\
+\Karma (League of Legends)\
+\Seraphine (League of Legends)\
+\Gwen (League of Legends)\
+\Camille (League of Legends)\
+\Senna (League of Legends)\
+\Samira (League of Legends)\
+\Lillia (League of Legends)\
+\Sena (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Kobato (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Rike (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Yozora (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Yukimura (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Kate (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Maria (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Hinata (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Stella (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Aoi (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Karin (Haganai: Boku wa Tomodachi ga Sukunai)\
+\Noire (Hyperdimension Neptunia)\
+\Neptune (Hyperdimension Neptunia)\
+\Nepgear (Hyperdimension Neptunia)\
+\Vert (Hyperdimension Neptunia)\
+\Blanc (Hyperdimension Neptunia)\
+\Plutia (Hyperdimension Neptunia)\
+\5pb. (Hyperdimension Neptunia)\
+\Rosa (Pokemon)\
+\Hilda (Pokemon)\
+\Inori (Guilty Crown)\
+\Mana (guilty crown)\
+\tsugumi (guilty crown)\
+\mirai (kyoukai no kanata)\
+\mitsuki (kyoukai no kanata)\
+\ai (kyoukai no kanata)\
+\izumi (kyoukai no kanata)\
+\sakura (kyoukai no kanata)\
+\shizuku (kyoukai no kanata)\
+\ayaka (kyoukai no kanata)\
+\miu (danganronpa)\
+\esdeath (akame ga kiru!)\
+\akame (akame ga kiru!)\
+\chelsea (akame ga kiru!)\
+\mine (akame ga kiru!)\
+\leone (akame ga kiru!)\
+\sheele (akame ga kiru!)\
+\kurome (akame ga kiru!)\
+\sayo (akame ga kiru!)\
+\air (akame ga kiru!)\
+\poney (akame ga kiru!)\
+\taeko (akame ga kiru!)\
+\lilly (katawa shoujo)\
+\hanako (katawa shoujo)\
+\emi (katawa shoujo)\
+\rin (katawa shoujo)\
+\shizune (katawa shoujo)\
+\misha (katawa shoujo)\
+\rem (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\shera (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\edelgard (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\sylvie (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\krebskulm (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\rafleisha (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\rose (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\alicia (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\lumachina (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\medios (Isekai Maou to Shoukan Shoujo no Dorei Majutsu)\
+\zelda (the legend of zelda)\
+\paya (the legend of zelda)\
+\mipha (the legend of zelda)\
+\urbosa (the legend of zelda)\
+\malon (the legend of zelda)\
+\linkle (the legend of zelda)\
+\purah (the legend of zelda)\
+\schwi dola (no game no life)\
+\tamaki (fire force)\
+\maki (fire force)\
+\iris (fire force)\
+\hibana (fire force)\
+\lisa (fire force)\
+\yue (arifureta)\
+\shia (arifureta)\
+\tio (arifureta)\
+\kaori (arifureta)\
+\myu (arifureta)\
+\miledi (arifureta)\
+\samus aran (metroid)\
+\samus (metroid)\
+\akatsuki (log horizon)\
+\raynesia (log horizon)\
+\marielle (log horizon)\
+\rosalina (mario)\
+\bowsette (mario)\
+\peach (mario)\
+\princess king boo (mario)\
+\daisy (mario)\
+\rise kujikawa (persona 4)\
+\rise (persona 4)\
+\chie (persona 4)\
+\chie satonaka (persona 4)\
+\naoto (persona 4)\
+\naoto shirogane (persona 4)\
+\yukiko (persona 4)\
+\yukiko amagi (persona 4)\
+\marie (persona 4)\
+\margaret (persona 4)\
+\labrys (persona 4)\
+\nanako (persona 4)\
+\sayako (persona 4)\
+\ai (persona 4)\
+\noriko (persona 4)\
+\yumi (persona 4)\
+\mayumi (Mahouka Koukou no Rettousei)\
+\miyuki (Mahouka Koukou no Rettousei)\
+\erika (Mahouka Koukou no Rettousei)\
+\angelina (Mahouka Koukou no Rettousei)\
+\shizuku (Mahouka Koukou no Rettousei)\
+\mari (Mahouka Koukou no Rettousei)\
+\mitsui (Mahouka Koukou no Rettousei)\
+\yumeko (Kakegurui)\
+\mary (Kakegurui)\
+\kirari (Kakegurui)\
+\ririka (Kakegurui)\
+\runa (Kakegurui)\
+\yumemi (Kakegurui)\
+\sayaka (Kakegurui)\
+\itsuki (Kakegurui)\
+\honebami (Kakegurui)\
+\inaho (Kakegurui)\
+\erimi (Kakegurui)\
+\yuriko (Kakegurui)\
+\suzune (classroom of the elite)\
+\honami (classroom of the elite)\
+\airi (classroom of the elite)\
+\sae (classroom of the elite)\
+\kei (classroom of the elite)\
+\arisu (classroom of the elite)\
+\kikyou (classroom of the elite)\
+\hiyori (classroom of the elite)\
+\mikoto (Toaru Majutsu no Index)\
+\misaki (Toaru Majutsu no Index)\
+\kanzaki (Toaru Majutsu no Index)\
+\shirai (Toaru Majutsu no Index)\
+\index (Toaru Majutsu no Index)\
+\emi (Hataraku Maou-sama!)\
+\chiho (Hataraku Maou-sama!)\
+\sarada (boruto)\
+\hanabi (boruto)\
+\himawari (boruto)\
+\mirai (boruto)\
+\chocho (boruto)\
+\hako (boruto)\
+\evileye (overlord)\
+\mitsuru kirijo (persona 3)\
+\mitsuru (persona 3)\
+\aigis (persona 3)\
+\yukari (persona 3)\
+\elizabeth (persona 3)\
+\fuuka (persona 3)\
+\fuuka yamagishi (persona 3)\
+\chidori (persona 3)\
+\chihiro (persona 3)\
+\isako (persona 3)\
+\metis (persona 3)\
+\rio (persona 3)\
+\yuko (persona 3)\
+\androssi (tower of god)\
+\rachel (tower of god)\
+\yeon (tower of god)\
+\pyra (xenoblade)\
+\mythra (xenoblade)\
+\nia (xenoblade)\
+\pneuma (xenoblade)\
+\pandoria (xenoblade)\
+\megumi (konosuba)\
+\aqua (konosuba)\
+\umiko (new game!)\
+\rukia (bleach)
+\merlin (seven deadly sins)\
+\velma (scooby doo)\
+\daphne (scooby doo)\
+\starfire (teen titans)\
+\raven (teen titans)\
+\kim possible (kim possible)\
+\miranda lawson (mass effect)\
+\tali (mass effect)\
+\liara (mass effect)\
+\edi (mass effect)\
+\samara (mass effect)\
+\ashley (mass effect)\
+\violet (the incredibles)\
+\helen (the incredibles)\
+\weiss schnee (rwby)\
+\blake (rwby)\
+\ruby rose (rwby)\
+\samsung sam\
+\hitomi (dead or alive)\
+\princess zelda (zelda)\
+\wonder woman (dc comics)\
+\claire redfield (resident evil)\
+\jill valentine (resident evil)\
+\ada wong (resident evil)\
+\ayane (dead or alive)\
+\marie rose (dead or alive)\
+\kasumi (dead or alive)\
+\yennefer (the witcher)\
+\ciri (the witcher)\
+\triss (the witcher)\
+\shantae (shantae)\
+\elsa (frozen)\
+\anna (frozen)\
+\zero two (darling in the franxx)\
+\lara (tomb raider)\
+\lara croft (tomb raider)\
+\shiro (deadman wonderland)\
+\bayonetta\
+\asuka (senran kagura)\
+\katsuragi (senran kagura)\
+\yumi (senran kagura)\
+\honoka (senran kagura)\
+\hikage (senran kagura)\
+\haruka (senran kagura)\
+\homura (senran kagura)\
+\hibari (senran kagura)\
+\shiki (senran kagura)\
+\miyabi (senran kagura)\
+\yagyu (senran kagura)\
+\yomi (senran kagura)\
+\murakumo (senran kagura)\
+\ayame (senran kagura)\
+\mirai (senran kagura)\
+\leo (senran kagura)\
+\naraku (senran kagura)\
+\hanabi (senran kagura)\
+\kumi (senran kagura)\
+\ibuki (senran kagura)\
+\ashiya (senran kagura)\
+\miki (senran kagura)\
+\tsubaki (senran kagura)\
+\reki (senran kagura)\
+\sagiri (eromanga-sensei)\
+\elf (eromanga-sensei)\
+\tomoe (eromanga-sensei)\
+\megumi (eromanga-sensei)\
+\sayaka (strike the blood)\
+\yukina (strike the blood)\
+\la folia (strike the blood)\
+\aiba (strike the blood)\
+\natsuki (strike the blood)\
+\reina (strike the blood)\
+\nagisa (strike the blood)\
+\kanon (strike the blood)\
+\astarte (strike the blood)\
+\Irina (assasination classroom)\
+\kaede (assasination classroom)\
+\ritsu (assasination classroom)\
+\rio (assasination classroom)\
+\rinka (assasination classroom)\
+\hinano (assasination classroom)\
+\toph (avatar)\
+\ty lee (avatar)\
+\katara (avatar)\
+\azula (avatar)\
+\suki (avatar)\
+\mai (avatar)\
+\june (avatar)\
+\jin (avatar)\
+\maya (ace attorney)\
+\mia (ace attorney)\
+\franziska (ace attorney)\
+\athena (ace attorney)\
+\kay (ace attorney)\
+\setsuna (Redo of Healer)\
+\flare (Redo of Healer)\
+\kureha (Redo of Healer)\
+\eve (Redo of Healer)\
+\norn (Redo of Healer)\
+\lapiz (Redo of Healer)\
+\sena (boku wa tomodachi ga sukunai)\
+\kobato (boku wa tomodachi ga sukunai)\
+\yozora (boku wa tomodachi ga sukunai)\
+\rika (boku wa tomodachi ga sukunai)\
+\yukimura (boku wa tomodachi ga sukunai)\
+\kate (boku wa tomodachi ga sukunai)\
+\maria (boku wa tomodachi ga sukunai)\
+\hinata (boku wa tomodachi ga sukunai)\
+\stella (boku wa tomodachi ga sukunai)\
+\aoi (boku wa tomodachi ga sukunai)\
+\karin (boku wa tomodachi ga sukunai)\
+\kongou (KanColle)\
+\shimakaze (KanColle)\
+\hibiki (KanColle)\
+\kashima (KanColle)\
+\hamakaze (KanColle)\
+\nagato (KanColle)\
+\haruna (KanColle)\
+\yamato (KanColle)\
+\iowa (KanColle)\
+\yuudachi (KanColle)\
+\amatsukaze (KanColle)\
+\bismarck (KanColle)\
+\IA (vocaloid)\
+\yui (darker than black)\
+\velvet (tales of berserk)\
+\emma (the promised neverland)
+\hermione granger (harry potter)\
+\luna lovegood (harry potter)\
+\ginny weasley (harry potter)\
+\daphne greengrass (harry potter)\
+\astoria greengrass (harry potter)\
+\hermione (harry potter)\
+\luna (harry potter)\
+\ginny (harry potter)\
+\daphne (harry potter)\
+\astoria (harry potter)\
+\arcueid (Tsukihime)\
+\hisui (Tsukihime)\
+\emma watson\
+\emilia clarke\
+\makio (demon slayer)\
+\carrie fisher\
+\marilyn monroe\
+\megan fox\
+\natalie portman\
+\jennie\
+\jennie (blackpink)\
+\lalisa\
+\lisa (blackpink)\
+\jisoo\
+\jisso (blackpink)\
+\rose\
+\rose (blackpink)\
