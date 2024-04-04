@@ -1,0 +1,81 @@
+#청회색 눈
+blue-gray eyes
+#주황색 눈
+orange eyes
+#하늘색 눈
+light blue eyes
+#검붉은 눈
+dark red eyes
+#맹목적인 눈
+blind eyes
+#은빛 눈
+silver eyes
+#밝은 갈색 눈
+light brown eyes
+#밝은 녹색 눈
+light green eyes
+#짙은 갈색 눈
+dark brown eyes
+#레트로 눈
+retro eyes
+#심장 눈
+heart eyes
+#짙은 보라색 눈
+dark purple eyes
+#호박색 눈
+amber eyes
+#라이트 핑크 눈
+light pink eyes
+#적갈색 눈
+hazel eyes
+#노란 눈
+yellow eyes
+#파란 눈
+blue eyes
+#짙은 녹색 눈
+dark green eyes
+#밝은 빨간 눈
+light red eyes
+#빨간 눈
+red eyes
+#다이아몬드 눈
+diamond eyes
+#갈색 눈
+brown eyes
+#감긴 눈
+closed eyes
+#고양이 눈
+cat eyes
+#진한 파란색 눈
+dark blue eyes
+#녹갈색 눈
+green-hazel eyes
+#짙은 분홍색 눈
+dark pink eyes
+#보라색 눈
+purple eyes
+#하얀 눈
+white eyes
+#악마의 눈
+demon eyes
+#곁눈질
+squinted eyes
+#회색 눈
+gray eyes
+#분홍색 눈
+pink eyes
+#밝은 보라색 눈
+light purple eyes
+#자홍색 눈
+magenta eyes
+#반짝이는 눈
+sparkling eyes
+#금빛 눈
+gold eyes
+#검은 눈
+black eyes
+#녹색 눈
+green eyes
+#이색 증
+heterochromia
+

@@ -1,0 +1,14 @@
+bear panties
+bunny panties
+cat panties
+checkered panties
+lace panties
+lace-trimmed panties
+plaid panties
+polka dot panties
+print panties
+strawberry panties
+striped panties
+vertical-striped panties
+latex panties
+leaf panties
