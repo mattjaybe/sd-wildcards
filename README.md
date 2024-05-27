@@ -1,9 +1,9 @@
 # sd-wildcards
 **A collection of wildcards for Stable Diffusion + Dynamic Prompts extension**
 
-Using the power of ChatGPT, I've created a number of wildcards to be used in Stable Diffusion by way of the Dynamic Prompts extension found in the Automatic1111 fork.
+Using ChatGPT, I've created a number of wildcards to be used in Stable Diffusion. Wildcards requires the Dynamic Prompts or Wildcards extension and works on Automatic1111, ComfyUI, Forge, SD.Next and more.
 
-You can create your own list of wildcards by telling ChatGPT this:
+You can create your own list of wildcards by telling any AI service such as ChatGPT/Gemini/CoPilot/MetaAI this:
 
 > Give me a list of all the different types of dresses for women. Make sure you list each one on its own line, alphabetical order, in lowercase, in singular form, and that there are no duplicates. Do not number each line.
 
@@ -16,7 +16,7 @@ Copy and paste the result into a text file with the name of your own choosing (o
 Example wildcards found in this collection that were created with ChatGPT:
 
 - [*dress*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/dress.txt)
-- [*lingerie*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/lingerie.txt)
+- [*nsfw-lingerie*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/nsfw-lingerie.txt)
 - [*fantasy*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/fantasy.txt)
 - [*scifi*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scifi.txt)
 - [*biome*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/biome.txt)
@@ -54,15 +54,9 @@ The result would look something like this with each generation:
 
 ### Resources
 
-You can find even more wildcards to use:
+You can find even more wildcards to use at [CivitAI](https://civitai.com/models) (just filter for Wildcards)
 
-[Wildcards for SD](https://github.com/themartiantourist/Wildcards-for-SD)
-
-[SDGoldMine](https://rentry.org/sdgoldmine#wildcards)
-
-ChatGPT is free (for now) and [you can sign up for it here](https://openai.com/blog/chatgpt/).
-
-There are Windows/Linux/macOS apps available at [prompts.chat](https://prompts.chat/).
+AI services like ChatGPT, Gemini, CoPilot, and MetaAI are all free to use.
 
 *Protip*: You can create a style with your favorite lines.  For example, I have a style called Camera Wildcards that injects this line to the prompt box: *`__camera__, __f-stop__, __iso-stop__, __focal-length__`*
 
