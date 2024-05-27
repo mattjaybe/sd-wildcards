@@ -26,7 +26,7 @@ Example wildcards found in this collection that were created with ChatGPT:
 - [*scenario-romance*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scenario-romance.txt)
 - [*scenario-fantasy*](https://raw.githubusercontent.com/mattjaybe/sd-wildcards/main/wildcards/scenario-fantasy.txt)
 
-![example](https://user-images.githubusercontent.com/110819465/214972021-6086eff9-fa7e-46db-8dcf-c07eaf345983.png)
+![Wildcards Example Screenshot](https://github.com/mattjaybe/sd-wildcards/assets/110819465/e1be5256-1651-4fda-82d4-3a0af0800dc0)
 
 ## Installation
 
