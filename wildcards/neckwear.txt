@@ -15,6 +15,7 @@ headphones around neck
 jabot
 lanyard
 neckerchief
+__gem__ necklace
 necklace
 chain necklace
 flower necklace

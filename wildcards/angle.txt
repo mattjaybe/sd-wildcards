@@ -1,0 +1,17 @@
+dutch angle
+from above
+from behind
+from behind, looking at viewer
+from behind, looking away
+from below
+from below, looking at viewer
+from below, looking away
+from side
+from side, looking at viewer
+from side, looking away
+panorama
+perspective
+pov, looking at viewer
+pov, looking away
+sideways
+straight-on

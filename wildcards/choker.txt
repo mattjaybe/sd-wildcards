@@ -1,0 +1,17 @@
+__color__ choker
+anchor choker
+bow choker
+cross choker
+frilled choker
+fur choker
+gold choker
+heart choker
+lace choker
+lace-trimmed choker
+o-ring choker
+pendant choker
+spiked choker
+star choker
+striped choker
+studded choker
+ribbon choker
